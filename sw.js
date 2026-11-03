@@ -1,5 +1,5 @@
-const CACHE = 'planner-v15';
-const CORE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
+const CACHE = 'planner-v18';
+const CORE = ['./', './index.html', './manifest.json', './icon-192.png'];
 // مكتبات التصميم: تُحفظ مسبقاً ليعمل التطبيق دون إنترنت بعد أول فتح
 const CDN = [
   'https://cdn.tailwindcss.com/3.4.17',
